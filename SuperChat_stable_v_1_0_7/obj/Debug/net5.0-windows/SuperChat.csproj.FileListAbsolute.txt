@@ -1,0 +1,138 @@
+D:\Downloads\WorkSpace-main\SuperChat\bin\Debug\net5.0-windows\SuperChat.exe
+D:\Downloads\WorkSpace-main\SuperChat\bin\Debug\net5.0-windows\Images and Icons\Camera.png
+D:\Downloads\WorkSpace-main\SuperChat\bin\Debug\net5.0-windows\Images and Icons\Phone.png
+D:\Downloads\WorkSpace-main\SuperChat\bin\Debug\net5.0-windows\Images and Icons\Plus.png
+D:\Downloads\WorkSpace-main\SuperChat\bin\Debug\net5.0-windows\Images and Icons\Send.png
+D:\Downloads\WorkSpace-main\SuperChat\bin\Debug\net5.0-windows\SuperChat.deps.json
+D:\Downloads\WorkSpace-main\SuperChat\bin\Debug\net5.0-windows\SuperChat.runtimeconfig.json
+D:\Downloads\WorkSpace-main\SuperChat\bin\Debug\net5.0-windows\SuperChat.runtimeconfig.dev.json
+D:\Downloads\WorkSpace-main\SuperChat\bin\Debug\net5.0-windows\SuperChat.dll
+D:\Downloads\WorkSpace-main\SuperChat\bin\Debug\net5.0-windows\ref\SuperChat.dll
+D:\Downloads\WorkSpace-main\SuperChat\bin\Debug\net5.0-windows\SuperChat.pdb
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\SuperChat.csproj.AssemblyReference.cache
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\Themes\ChatItem.baml
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\Themes\ContactCard.baml
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\Themes\MessageBox.baml
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\Themes\StylishScrollbar.baml
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\App.g.cs
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\SuperChat_Content.g.cs
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\SuperChat_MarkupCompile.cache
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\SuperChat_MarkupCompile.lref
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\App.baml
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\SuperChat.g.resources
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\SuperChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\SuperChat.AssemblyInfoInputs.cache
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\SuperChat.AssemblyInfo.cs
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\SuperChat.csproj.CoreCompileInputs.cache
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\SuperChat.dll
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\ref\SuperChat.dll
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\SuperChat.pdb
+D:\Downloads\WorkSpace-main\SuperChat\obj\Debug\net5.0-windows\SuperChat.genruntimeconfig.cache
+E:\SuperChat\bin\Debug\net5.0-windows\SuperChat.exe
+E:\SuperChat\bin\Debug\net5.0-windows\Images and Icons\Camera.png
+E:\SuperChat\bin\Debug\net5.0-windows\Images and Icons\Phone.png
+E:\SuperChat\bin\Debug\net5.0-windows\Images and Icons\Plus.png
+E:\SuperChat\bin\Debug\net5.0-windows\Images and Icons\Send.png
+E:\SuperChat\bin\Debug\net5.0-windows\SuperChat.deps.json
+E:\SuperChat\bin\Debug\net5.0-windows\SuperChat.runtimeconfig.json
+E:\SuperChat\bin\Debug\net5.0-windows\SuperChat.runtimeconfig.dev.json
+E:\SuperChat\bin\Debug\net5.0-windows\SuperChat.dll
+E:\SuperChat\bin\Debug\net5.0-windows\ref\SuperChat.dll
+E:\SuperChat\bin\Debug\net5.0-windows\SuperChat.pdb
+E:\SuperChat\obj\Debug\net5.0-windows\SuperChat.csproj.AssemblyReference.cache
+E:\SuperChat\obj\Debug\net5.0-windows\Themes\ChatItem.baml
+E:\SuperChat\obj\Debug\net5.0-windows\Themes\ContactCard.baml
+E:\SuperChat\obj\Debug\net5.0-windows\Themes\MessageBox.baml
+E:\SuperChat\obj\Debug\net5.0-windows\Themes\StylishScrollbar.baml
+E:\SuperChat\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\SuperChat\obj\Debug\net5.0-windows\App.g.cs
+E:\SuperChat\obj\Debug\net5.0-windows\SuperChat_Content.g.cs
+E:\SuperChat\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\SuperChat\obj\Debug\net5.0-windows\SuperChat_MarkupCompile.cache
+E:\SuperChat\obj\Debug\net5.0-windows\SuperChat_MarkupCompile.lref
+E:\SuperChat\obj\Debug\net5.0-windows\App.baml
+E:\SuperChat\obj\Debug\net5.0-windows\MainWindow.baml
+E:\SuperChat\obj\Debug\net5.0-windows\SuperChat.g.resources
+E:\SuperChat\obj\Debug\net5.0-windows\SuperChat.GeneratedMSBuildEditorConfig.editorconfig
+E:\SuperChat\obj\Debug\net5.0-windows\SuperChat.AssemblyInfoInputs.cache
+E:\SuperChat\obj\Debug\net5.0-windows\SuperChat.AssemblyInfo.cs
+E:\SuperChat\obj\Debug\net5.0-windows\SuperChat.csproj.CoreCompileInputs.cache
+E:\SuperChat\obj\Debug\net5.0-windows\SuperChat.dll
+E:\SuperChat\obj\Debug\net5.0-windows\ref\SuperChat.dll
+E:\SuperChat\obj\Debug\net5.0-windows\SuperChat.pdb
+E:\SuperChat\obj\Debug\net5.0-windows\SuperChat.genruntimeconfig.cache
+E:\SuperChat\SuperChat_stable\bin\Debug\net5.0-windows\SuperChat.exe
+E:\SuperChat\SuperChat_stable\bin\Debug\net5.0-windows\Images and Icons\Camera.png
+E:\SuperChat\SuperChat_stable\bin\Debug\net5.0-windows\Images and Icons\Phone.png
+E:\SuperChat\SuperChat_stable\bin\Debug\net5.0-windows\Images and Icons\Plus.png
+E:\SuperChat\SuperChat_stable\bin\Debug\net5.0-windows\Images and Icons\Send.png
+E:\SuperChat\SuperChat_stable\bin\Debug\net5.0-windows\SuperChat.deps.json
+E:\SuperChat\SuperChat_stable\bin\Debug\net5.0-windows\SuperChat.runtimeconfig.json
+E:\SuperChat\SuperChat_stable\bin\Debug\net5.0-windows\SuperChat.runtimeconfig.dev.json
+E:\SuperChat\SuperChat_stable\bin\Debug\net5.0-windows\SuperChat.dll
+E:\SuperChat\SuperChat_stable\bin\Debug\net5.0-windows\ref\SuperChat.dll
+E:\SuperChat\SuperChat_stable\bin\Debug\net5.0-windows\SuperChat.pdb
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\SuperChat.csproj.AssemblyReference.cache
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\Themes\ChatItem.baml
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\Themes\ContactCard.baml
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\Themes\MessageBox.baml
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\Themes\StylishScrollbar.baml
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\App.g.cs
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\SuperChat_Content.g.cs
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\SuperChat_MarkupCompile.cache
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\SuperChat_MarkupCompile.lref
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\App.baml
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\MainWindow.baml
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\SuperChat.g.resources
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\SuperChat.GeneratedMSBuildEditorConfig.editorconfig
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\SuperChat.AssemblyInfoInputs.cache
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\SuperChat.AssemblyInfo.cs
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\SuperChat.csproj.CoreCompileInputs.cache
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\SuperChat.dll
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\ref\SuperChat.dll
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\SuperChat.pdb
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\SuperChat.genruntimeconfig.cache
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\ScreenSaver.g.cs
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\ScreenSaver.baml
+E:\SuperChat\SuperChat_stable\obj\Debug\net5.0-windows\Themes\LoginBox.baml
+E:\SuperChat\SuperChat_stable_v_1_0_7\bin\Debug\net5.0-windows\SuperChat.exe
+E:\SuperChat\SuperChat_stable_v_1_0_7\bin\Debug\net5.0-windows\Images and Icons\Camera.png
+E:\SuperChat\SuperChat_stable_v_1_0_7\bin\Debug\net5.0-windows\Images and Icons\Phone.png
+E:\SuperChat\SuperChat_stable_v_1_0_7\bin\Debug\net5.0-windows\Images and Icons\Plus.png
+E:\SuperChat\SuperChat_stable_v_1_0_7\bin\Debug\net5.0-windows\Images and Icons\Send.png
+E:\SuperChat\SuperChat_stable_v_1_0_7\bin\Debug\net5.0-windows\SuperChat.deps.json
+E:\SuperChat\SuperChat_stable_v_1_0_7\bin\Debug\net5.0-windows\SuperChat.runtimeconfig.json
+E:\SuperChat\SuperChat_stable_v_1_0_7\bin\Debug\net5.0-windows\SuperChat.runtimeconfig.dev.json
+E:\SuperChat\SuperChat_stable_v_1_0_7\bin\Debug\net5.0-windows\SuperChat.dll
+E:\SuperChat\SuperChat_stable_v_1_0_7\bin\Debug\net5.0-windows\ref\SuperChat.dll
+E:\SuperChat\SuperChat_stable_v_1_0_7\bin\Debug\net5.0-windows\SuperChat.pdb
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\SuperChat.csproj.AssemblyReference.cache
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\Themes\ChatItem.baml
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\Themes\ContactCard.baml
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\Themes\LoginBox.baml
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\Themes\MessageBox.baml
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\Themes\StylishScrollbar.baml
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\ScreenSaver.g.cs
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\App.g.cs
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\SuperChat_Content.g.cs
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\SuperChat_MarkupCompile.cache
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\SuperChat_MarkupCompile.lref
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\App.baml
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\MainWindow.baml
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\ScreenSaver.baml
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\SuperChat.g.resources
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\SuperChat.GeneratedMSBuildEditorConfig.editorconfig
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\SuperChat.AssemblyInfoInputs.cache
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\SuperChat.AssemblyInfo.cs
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\SuperChat.csproj.CoreCompileInputs.cache
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\SuperChat.dll
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\ref\SuperChat.dll
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\SuperChat.pdb
+E:\SuperChat\SuperChat_stable_v_1_0_7\obj\Debug\net5.0-windows\SuperChat.genruntimeconfig.cache
